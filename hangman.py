@@ -1,11 +1,11 @@
 import time 
-
+print "yo"
 name = raw_input("What is your name dickhead? ")
 
 print "Hello,  " + name, "Time to play hangman!"
 
 print ""
-poop
+
 time.sleep(1)
 
 print "Start guessing. . ."
